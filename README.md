@@ -11,7 +11,8 @@ Software engineering student at **42 Luxembourg** (2027 cohort), moving into tec
 C · JavaScript · Vue · HTML · CSS · Git · Excel · SQL (learning) · Python (learning)
 
 ## Projects
-- **flashcards-app** – a flashcards learning app built with Vue
+- **flashcards-app** – a flashcards learning app built with Vue (in progress 🚧)
+- **to-do-list app** – Vue.js app to add, complete, delete and filter tasks (Digital Learning Hub course)
 - **French_poem_generator** – a small web app that generates French poems
 - **workshop-responsive** – responsive web page built with HTML and CSS
 - **my_first_c_project / c_fundamentals** – my C learning exercises
